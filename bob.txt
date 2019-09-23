@@ -1,3 +1,6 @@
-hi 
+Hi!
 this is Bob
 I am a git local file.
+
+
+This is new text.
